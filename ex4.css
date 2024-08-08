@@ -1,0 +1,19 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+* body {
+  font-size: 35px;
+  font-family: sans-serif;
+}
+
+@media (max-width: 1000px) {
+  .m1 {
+    display: grid;
+    grid-template-columns: 500px 10px 30px;
+  }
+}
+.m1 img {
+  width: 10vw;
+}/*# sourceMappingURL=ex4.css.map */
